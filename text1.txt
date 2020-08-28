@@ -1,0 +1,88 @@
+Autonomous vehicle
+Current status
+The current state of autonomous vehicles is still quite difficult to access to the world, there are still many problems to solve with autonomous vehicles, so experts believe that it will take at least 10 years to commercialize autonomous vehicles. If you ask researchers in the field of manufacturing self-propelled cars that can operate cars on the road, it is still a mystery. In addition, a number of accidents of autonomous vehicles also partly slow down the development of this technology product. 
+
+	What can be done now?
+
+As you can see, developing autonomous vehicles is a huge challenge for some manufacturers because of countless different factors. To operate an autonomous vehicle requires technological equipment, those equipment such as radars, sensors, GPS and software are the most basic equipment. Autonomous cars work like a driver controls a regular car, instead of being controlled by humans, all activities of the car are computerized in combination with sensors and cameras. The cameras will capture the traffic lights, the locator will track the route and the sensors will analyze and keep the vehicle in the correct lane and of course if you want to do this, the car needs to be equipped with a computer system to synthesize all information and process data from devices. Besides, Machine Learning (ML) is an indispensable technology when operating an autonomous vehicle. The car needs to be trained in the weather conditions, traffic lights and other hazards in order to be able to figure out how to handle the situation like the way humans used to. Machine learning acts like the brain of the vehicle, allowing vehicles to make quick decisions. And those are the features and equipment required to operate an autonomous vehicle. But in fact, these self-propelled cars are used mainly for testing and research purposes. Because sensors, cameras, and positioning devices can only work well in a standard environment, where there is no impact from external natural factors. The reason these self-propelled cars are not able to perform well in the outside environment is because of the impact of the weather, specific snow will cover the camera and prevent the vehicle from analyzing the image of the lanes. Next is the pavement and roadbed also have a lot of impact on the operation of these self-propelled cars. The roads in each area will be different, so the lane dividing line will not be the same, even some sections of the road do not have a lane mark. And the characteristic of these cars is that they have to learn the lanes to move in order to be able to steer the vehicle in the right direction. Human interaction is also a big deal with autonomous vehicles when on the street there often appear some components that do not comply with traffic laws or some unexpected man-made situations. Consumer perspective, autonomous vehicles have not created confidence in users because of the safety that it brings to. Evidence shows that a fatal accident caused by an autonomous vehicle led to the trail work being stopped. 
+
+
+What is likely to be able to do be done soon
+
+Autonomous vehicles are classified into 5 levels from low to high. 
+Level 0 - No Automation 
+Level 1 - Driver Assistance
+Level 2 - Partial Automation
+Level 3 - Conditional Automation
+Level 4 - High Automation
+Level 5 - Full Automation
+
+Level 1 - The automation is small, only impacting a few driving tasks or small acceleration for the car. The rest are entirely under human control.
+Level 2 - Upgraded, the car has an enhanced cruise control or a stock autonomous steering system. The car can operate safely but the driver needs to be vigilant.
+Level 3 - The driver does not need to continuously monitor, the computer will analyze and automatically recognize the operating limits. If the conditions are not met, the system will notify the driver to control the vehicle again.
+Level 4 - The vehicle can automate the entire process and requires no human intervention. But only in a few places has enough conditions to allow it to automate.
+Level 5 - Fully automate in every condition.
+
+In the next 3 years, autonomous vehicles only can reach maximum to level 3 because like what mentioned above, each area, each region has a different character. The traffic system is not the same in most regions as well as the road markings in each area have not been synchronized, so it will be difficult for vehicles to operate completely replacing human beings and always ensure safety. As well as the human factor also has a significant impact on bringing these self-propelled cars to the highest level.
+
+
+
+What technological or other developments make this possible?
+
+Technological developments to make this possible are the development of sensory systems such as integrated infrared camera technology that measure the depth of obstacles. Besides, radar blind spot warning as well as navigation system. Last but not least, develop AI technology through machine learning and deep learning. Deep learning is an application of artificial intelligence that allows systems to learn from and improve. 
+
+	
+	What is the likely impact?
+The impact of autonomous vehicles will be both beneficial and harmful in many factors. The proliferation of autonomous vehicles can cause a large number of drivers to lose their jobs and restructure the economies of several countries. Solving the majority of the environmental problem, preventing tens of thousands of deaths each year, saves time, increases productivity and creates a new industry. It's hard to imagine all the effects autonomous vehicles have on life. There are 884,000 workers employed at the car plant and 3.02 million employed in dealers and warranties, according to the US Bureau of Labor Statistics. Services including buses, vans, transportation and taxi drivers are now offering more than 6 million professional driving jobs. However those 10 million jobs will be lost over the next 10-15 years once autonomous vehicles dominate.Besides, there will be a drawback about the jobs of some people. Specifically, jobs performed by people directly, such as driving a taxi or driving public transport, will be replaced by autonomous vehicles. Manufacturing and construction industry workers will also be replaced by autonomous vehicles, which are designed to complete repetitive tasks. 
+
+	
+
+
+
+How will this affect you?
+
+This will be a positive influence on my daily life as the vehicles are now computerized and automated. It will change the way you travel and travel between places. In a country with a dense and diverse number of means of transportation like Vietnam, this development will be a new step, redefining the entire mobility structure of people. Towards a world full of technology. The biggest difference to me is that I don't have to think about which route is fastest during rush hours because now autonomous vehicles can do the job for me and map the way. the fastest way to get to my destination. The second is about safety when moving is also much more assured when the car can handle the situation much more quickly and accurately than a human. On the part of family and relatives, I find it very convenient to develop such self-propelled institutions because technology can help their work a lot and I can also locate and to know the current state of my family and friends while I am away.
+
+
+
+
+	
+
+
+
+
+
+
+Website: 
+About Autonomous vehicles: https://www.computerworld.com/article/3558622/everything-you-should-know-about-autonomous-vehicles-and-how-they-work.html
+
+About self - driving cars levels: 
+https://emerj.com/ai-adoption-timelines/self-driving-car-timeline-themselves-top-11-automakers/
+
+
+
+Feedback
+This is the feedback for a member of my team. Jiho has been trying hard and positive in completing the composition of his work. Although our team has a bit of staffing issues when there are only 2 members in a group. Therefore, the work for 2 members to do is a lot. But Jiho didn't give up because of that, he did his best to complete the section. Besides, for myself I think I had tried my best to complete my task even though I can not make sure that I can fulfill all of what the task required. In addition, I think I find I'm a bit late in terms of work progress because I spend too much time thinking and searching for information. In general, me and my teammate Jiho have good cooperation by having a clear plan on how to work on this assignment and together push each other to complete the work in progress.
+
+
+Group Reflection  
+At first, our group had 3 members, Hao, Jinho and Huy, the leader of the group. On the 17th of August 2020, Huy informed us that he was going to quit school since his visa was expired therefore, he has to go back to the U.S in the Covid-19 time. We had our tasks divided but due to his drop out we have to do it again and it takes time therefore our assignment could not be at its best. This incident was devastating since Jinho and I was bloated with work and tried our best to cover the lack of member, hope you will understand for us. One thing that I have learnt about grouping is it can be fluctuated and we, our group should have seen that and prepare more wisely. 
+
+
+
+Ideal Jobs (Compare between The Senior Creative Strategist vs Database Administrator/Specialist)
+After analyzing Jinho’s ideal job at Twitch as a Senior Creative Strategist and compare it to my ideal job as a Database Administrator/Specialist at LHV Software. I have come to a few common and contrast elements which I will demonstrate below. 
+Firstly I will talk about the common points between our ideal occupations are it takes more time to climb to our desire positions, presentation skill, communication skills are required soft skills to obtain the responsibilities of a strategist and a administrator.  
+Secondly, the properties to become a strategist and an adminstrator is quite different.
+A strategist 's characteristics typically include setting objectives, defining actions to achieve the goals, and marshaling resources to conduct the decision. An administrator is a person whose job is to help coordinate and monitor the way an agency or entity operates.
+Last but not least, I will write about the differences and similarities of our career plan. Jinho and I plan to work for different small companies to gain experiences then after a small timespan, we will proceed to get a place in our chosen companies. But Jinho plans to work in responding to customers and developing apps which does not supply the useful skills and knowledge to support him on the way to become a strategist. Different from the route that Jinho choose, I will start on getting a MBA degree related to Database Administration whilst working to support myself.  
+
+
+
+
+
+
+
+
+
+
